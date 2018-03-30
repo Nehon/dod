@@ -1,0 +1,6 @@
+.idea/
+*.iml
+*.dylib
+out/
+build/
+gi
